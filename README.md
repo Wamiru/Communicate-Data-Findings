@@ -9,7 +9,7 @@ The data consists of information regarding 183,412 trips made in a bike-sharing 
 
 ## Summary of Findings
 
-In the exploration, I found out that most trips were about 500 seconds.
+In the exploration, I found out that mos trips were about 500 seconds.
 
 Most of the trips (90.53%) were taken by subscribers whereas on customers only contributed to 9.47% of the people who went for trips. 
 
